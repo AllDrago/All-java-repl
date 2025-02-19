@@ -1,0 +1,41 @@
+{
+  id=1,
+  name=
+  'Petya',
+  contacts=[
+  Contact
+  {
+    id=1,
+    customerId=7,
+    name=
+    'First',
+    phone=
+    '123456',
+    email=
+    'ema1@il.ru'
+  },
+  Contact
+  {
+    id=2,
+    customerId=8,
+    name=
+    'First',
+    phone=
+    '654321',
+    email=
+    'ema2@il.ru'
+  },
+  Contact
+  {
+    id=3,
+    customerId=9,
+    name=
+    'First',
+    phone=
+    '+78567',
+    email=
+    'eea3@il.ru'
+  }
+]}, User{id=2, name='Vasya', contacts=[Contact{id=1, customerId=7, name='First', phone='123456', email='ema1@il.ru'}, Contact{id=2, customerId=8, name='First', phone='654321', email='ema2@il.ru'}, Contact{id=3, customerId=9, name='First', phone='+78567', email='eea3@il.ru'}]}, User{id=3, name='Katya', contacts=[
+Contact{id=1, customerId=7, name='First', phone='123456', email='ema1@il.ru'}, Contact{id=2, customerId=8, name='First', phone='654321', email='ema2@il.ru'
+},
