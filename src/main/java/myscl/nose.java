@@ -13,6 +13,12 @@ public class nose {
         int b = 6;
         int c = a + b;
         System.out.println(c);
+        if (c > 10) {
+            System.out.println("c is greater than 10");
+        } else {
+            System.out.println("c is less than 10");
+        }
+
 
     }
 }
