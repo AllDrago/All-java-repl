@@ -8,5 +8,11 @@ public class nose {
         System.out.println("Hello, World3");
         System.out.println("Hello, World4");
 
+
+        int a = 5;
+        int b = 6;
+        int c = a + b;
+        System.out.println(c);
+
     }
 }
