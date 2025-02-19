@@ -17,6 +17,7 @@ public class nose {
             System.out.println("c is greater than 10");
         } else {
             System.out.println("c is less than 10");
+
         }
 
 
