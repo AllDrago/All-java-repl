@@ -19,6 +19,9 @@ public class nose {
             System.out.println("c is less than 10");
 
         }
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
 
 
     }
